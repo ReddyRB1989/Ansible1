@@ -1,4 +1,3 @@
-# roles/httpd/tasks/certificates.yml
 # Install certificate files on the target host
 ---
 

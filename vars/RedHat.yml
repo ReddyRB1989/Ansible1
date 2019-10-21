@@ -1,4 +1,5 @@
 # roles/httpd/vars/RedHat.yml
+# roles
 ---
 
 httpd_packages:
